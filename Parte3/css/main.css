@@ -1,0 +1,23 @@
+.caja-grande{
+	width:750px;
+	border:2px solid #D9D9D9;
+
+}
+.caja-amarilla {
+	width:180px;
+	height:120px;
+	background:#FFFF00;
+	float: right;
+}
+.caja-celeste {
+	width:180px;
+	height:120px;
+	background:#3A81BA;
+	float: right;
+}
+.caja-rosada {
+	width:180px;
+	height:120px;
+	background:#ED2251;
+	float: right;
+}
